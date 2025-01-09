@@ -14,4 +14,4 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 
 ## Week 3 - Advanced CSS for Responsive, User-Friendly Websites
 
-- NA
+- HTML Table: Tables tags definition (HTML + CSS)
