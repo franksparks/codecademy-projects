@@ -19,7 +19,6 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Task Board (Grid styling)
 - Tsunami Coffee (Responsive website)
 - Fotomatic (Fixing a non responsive website)
--
 
 ## Week 4 - Bring Interactivity to Websites with JavaScript
 
