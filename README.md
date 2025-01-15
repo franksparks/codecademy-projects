@@ -2,17 +2,17 @@
 
 Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Engineer training.
 
-## Week 1 - Discover Web Development and Programming Fundamentals
+## Week 1 - [Discover Web Development and Programming Fundamentals](./0-portfolio/)
 
 - NA
 
-## Week 2 - Create and Style Web Pages with HTML and CSS
+## Week 2 - [Create and Style Web Pages with HTML and CSS](./2-html+css/)
 
 - Hello world (HTML)
 - Dev project (HTML + CSS)
 - Dasmoto (HTML + CSS)
 
-## Week 3 - Advanced CSS for Responsive, User-Friendly Websites
+## Week 3 - [Advanced CSS for Responsive, User-Friendly Websites](./3-advanced%20styles/)
 
 - HTML Table: Tables tags definition (HTML + CSS)
 - PupSpa (Grid styling)
@@ -20,7 +20,7 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Tsunami Coffee (Responsive website)
 - Fotomatic (Fixing a non responsive website)
 
-## Week 4 - Bring Interactivity to Websites with JavaScript
+## Week 4 - [Bring Interactivity to Websites with JavaScript](./4-JavaScript%20Syntax%20I/)
 
 - Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value (JS)
 - Dog Years - Human age to dog age converter (JS)
