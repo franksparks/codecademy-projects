@@ -22,4 +22,4 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 
 ## Week 4 - Bring Interactivity to Websites with JavaScript
 
-- NA
+- Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value (JS)
