@@ -23,3 +23,47 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 ## Week 4 - Bring Interactivity to Websites with JavaScript
 
 - Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value (JS)
+
+## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
+
+- NA
+
+## Week 6 - Build Interactive Websites and Collaborate with Git and GitHub
+
+- NA
+
+## Week 7 - Learn JavaScript Classes, Testing, and Asynchronous Programming
+
+- NA
+
+## Week 8 - Develop Web Apps with React Components and Hooks
+
+- NA
+
+## Week 9 - Enhance React Apps with Styling and State Management
+
+- NA
+
+## Week 10 - Master Git, Node.js, and Express.js
+
+- NA
+
+## Week 11 - Secure Apps with Authentication and Testing
+
+- NA
+
+## Week 12 - Design Databases and Create Robust APIs
+
+- NA
+
+## Week 13 - Integrate and Secure Apps with APIs and DevOps
+
+- NA
+
+## Week 14 - Master Data Structures for Technical Interviews
+
+- NA
+
+## Week 15 - Learn Algorithms, Interview Skills, and Build a PERN App
+
+- NA
