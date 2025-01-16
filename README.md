@@ -27,6 +27,7 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Magic Eight Ball (JS)
 - Race Day (JS)
 - Rock, Paper or Scissors (JS)
+- Sleep Debt Calculator (JS)
 
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
