@@ -25,6 +25,7 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value (JS)
 - Dog Years - Human age to dog age converter (JS)
 - Magic Eight Ball (JS)
+- Race Day (JS)
 
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
