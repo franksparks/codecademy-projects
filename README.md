@@ -30,6 +30,7 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Sleep Debt Calculator (JS)
 - Training Days (JS)
 - Number Guesser (JS)
+- Code Challenges: JavaScript fundamentals
 
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
