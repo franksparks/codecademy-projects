@@ -28,6 +28,7 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Race Day (JS)
 - Rock, Paper or Scissors (JS)
 - Sleep Debt Calculator (JS)
+- Training Days (JS)
 
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
