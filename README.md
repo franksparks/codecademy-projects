@@ -37,7 +37,11 @@ Also:
 
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
-- NA
+- Secret Message (JS)
+
+Also:
+
+- Code Challenges: Intermidiate JavaScript
 
 ## Week 6 - Build Interactive Websites and Collaborate with Git and GitHub
 
