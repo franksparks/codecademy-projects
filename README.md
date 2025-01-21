@@ -35,7 +35,7 @@ Also:
 
 - Code Challenges: JavaScript fundamentals
 
-## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
+## Week 5 - [Deepen JavaScript Skills: Arrays, Loops, Objects](./5-JavaScript%20Syntax%20II/)
 
 - Secret Message (JS)
 - Meal Maker (JS)
