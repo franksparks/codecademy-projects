@@ -39,6 +39,7 @@ Also:
 
 - Secret Message (JS)
 - Meal Maker (JS)
+- Whale Talk (JS)
 - Team Stats (JS)
 
 Also:
