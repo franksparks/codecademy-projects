@@ -38,6 +38,7 @@ Also:
 ## Week 5 - Deepen JavaScript Skills: Arrays, Loops, Objects
 
 - Secret Message (JS)
+- Meal Maker (JS)
 
 Also:
 
