@@ -22,14 +22,14 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 
 ## Week 4 - [Bring Interactivity to Websites with JavaScript](./4-JavaScript%20Syntax%20I/)
 
-- Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value (JS)
-- Dog Years - Human age to dog age converter (JS)
-- Magic Eight Ball (JS)
-- Race Day (JS)
-- Rock, Paper or Scissors (JS)
-- Sleep Debt Calculator (JS)
-- Training Days (JS)
-- Number Guesser (JS)
+- Kelvin Weather - Kelvin to Celsius to Fahrenheit converter of a fixed value
+- Dog Years - Human age to dog age converter
+- Magic Eight Ball
+- Race Day
+- Rock, Paper or Scissors
+- Sleep Debt Calculator
+- Training Days
+- Number Guesser
 
 Also:
 
@@ -37,10 +37,11 @@ Also:
 
 ## Week 5 - [Deepen JavaScript Skills: Arrays, Loops, Objects](./5-JavaScript%20Syntax%20II/)
 
-- Secret Message (JS)
-- Meal Maker (JS)
-- Whale Talk (JS)
-- Team Stats (JS)
+- Secret Message
+- Meal Maker
+- Whale Talk
+- Team Stats
+- Grammar Checker
 
 Also:
 
