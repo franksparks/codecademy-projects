@@ -1,31 +1,10 @@
 /*
-Overview
-This project is slightly different than others you have encountered thus far on Codecademy. 
-Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which 
-describe the project you’ll be building. There are many possible ways to correctly fulfill all of these requirements, 
-and you should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
-
-Project Goals
-Context: The company that you work for suspects that credit card distributors have been mailing out cards that have invalid numbers. 
-In this project, you have the role of a clerk who checks if credit cards are valid. Every other clerk currently checks using pencil and paper, 
-but you’ll be optimizing the verification process using your knowledge of functions and loops to handle multiple credit cards at a time. 
-Unlike the other clerks, you can spend the rest of your time relaxing!
-
-TASKS
-1-Review Starter Code:
-Examine the provided arrays of credit card numbers, including valid, invalid, and mystery arrays, as well as the batch array.
-
-2-Create validateCred() Function:
-Implement a function to check if a credit card number is valid using the Luhn algorithm.
-
-3-Create findInvalidCards() Function:
-Develop a function to identify invalid credit card numbers from a nested array and return them.
-
-4-Create idInvalidCardCompanies() Function:
-Write a function to determine which companies issued invalid credit card numbers and return an array of these companies.
-
-5-Optional Challenges:
-Test your functions with different credit card numbers, create a function to convert strings to arrays, and develop a function to convert invalid numbers to valid ones.
+Goals of the challenge:
+Validate Credit Card Numbers: Implement a function to determine if a credit card number is valid using the Luhn algorithm.
+Identify Invalid Cards: Create a function to find and return invalid credit card numbers from a list.
+Identify Issuing Companies: Develop a function to identify which credit card companies have issued invalid numbers, based on the first digit of the card number.
+Optimize Verification Process: Use functions and loops to automate the validation process, making it more efficient than manual checking.
+Explore Extensions: Optionally, test the functions with different credit card numbers, convert strings to arrays, and create a function to correct invalid numbers.
 */
 
 // All valid credit card numbers
@@ -69,3 +48,67 @@ const batch = [
 ];
 
 // Add your functions below:
+
+const validateCred = (arr) => {
+  let sum = 0;
+  for (let i = arr.length - 1; i >= 0; i--) {
+    let currentValue = arr[i];
+
+    if ((arr.length - 1 - i) % 2 === 1) {
+      currentValue *= 2;
+      currentValue > 9 ? (currentValue -= 9) : currentValue;
+    }
+    sum += currentValue;
+  }
+  return sum % 10 === 0;
+};
+
+console.log(validateCred(valid1)); // Should print true
+console.log(validateCred(valid2)); // Should print true
+console.log(validateCred(invalid1)); // Should print false
+
+const findInvalidCards = (cards) => {
+  let invalidCards = [];
+  for (let i = 0; i < cards.length; i++) {
+    let currentCard = cards[i];
+    if (!validateCred(currentCard)) {
+      invalidCards.push(currentCard);
+    }
+  }
+  return invalidCards;
+};
+console.log(findInvalidCards([valid1, valid2, valid3, valid4, valid5])); // Shouldn't print anything
+console.log(findInvalidCards(batch)); // Should print all of the invalid numbers
+
+const idInvalidCardCompanies = (invalidCards) => {
+  let companies = [];
+  for (let i = 0; i < invalidCards.length; i++) {
+    switch (invalidCards[i][0]) {
+      case 3:
+        if (companies.indexOf("Amex") === -1) {
+          companies.push("Amex");
+        }
+        break;
+      case 4:
+        if (companies.indexOf("Visa") === -1) {
+          companies.push("Visa");
+        }
+        break;
+      case 5:
+        if (companies.indexOf("Mastercard") === -1) {
+          companies.push("Mastercard");
+        }
+        break;
+      case 6:
+        if (companies.indexOf("Discover") === -1) {
+          companies.push("Discover");
+        }
+        break;
+      default:
+        console.log("Company not found");
+    }
+  }
+  return companies;
+};
+
+console.log(idInvalidCardCompanies(batch)); // Should print 4 companies

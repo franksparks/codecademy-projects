@@ -29,11 +29,11 @@ Projects related to the [Codecademy](https://www.codecademy.com/) Full-Stack Eng
 - Rock, Paper or Scissors
 - Sleep Debt Calculator
 - Training Days
-- Number Guesser
 
 Also:
 
 - Code Challenges: JavaScript fundamentals
+- Number Guesser
 
 ## Week 5 - [Deepen JavaScript Skills: Arrays, Loops, Objects](./5-JavaScript%20Syntax%20II/)
 
@@ -46,6 +46,8 @@ Also:
 Also:
 
 - Code Challenges: Intermidiate JavaScript
+- Credit Card Checker
+- Mysterious Program
 
 ## Week 6 - Build Interactive Websites and Collaborate with Git and GitHub
 
