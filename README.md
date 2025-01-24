@@ -51,7 +51,7 @@ Also:
 
 ## Chapter 6 - Build Interactive Websites and Collaborate with Git and GitHub
 
-- NA
+- Manhattan Zoo
 
 ## Chapter 7 - Learn JavaScript Classes, Testing, and Asynchronous Programming
 
