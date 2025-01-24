@@ -10,7 +10,6 @@
 - Make a commit.
 - View your Git commit log again.
 - Revise each file, add changes to the staging area, and make another commit.
-
 */
 
 // Commands needed

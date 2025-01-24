@@ -49,10 +49,11 @@ Also:
 - Credit Card Checker
 - Mysterious Program
 
-## Chapter 6 - Build Interactive Websites and Collaborate with Git and GitHub
+## Chapter 6 - [Build Interactive Websites and Collaborate with Git and GitHub](./6-Git%20And%20Github/)
 
 - Manhattan Zoo
 - SnapFit Robots
+- Poem Fiasco
 
 ## Chapter 7 - Learn JavaScript Classes, Testing, and Asynchronous Programming
 
