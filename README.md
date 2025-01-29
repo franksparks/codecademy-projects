@@ -56,6 +56,7 @@ Also:
 - Poem Fiasco
 - ASCII Portfolio
 - Piano Keys
+- Form a story
 
 ## Chapter 7 - Learn JavaScript Classes, Testing, and Asynchronous Programming
 
