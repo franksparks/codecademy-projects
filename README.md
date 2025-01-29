@@ -54,6 +54,8 @@ Also:
 - Manhattan Zoo
 - SnapFit Robots
 - Poem Fiasco
+- ASCII Portfolio
+- Piano Keys
 
 ## Chapter 7 - Learn JavaScript Classes, Testing, and Asynchronous Programming
 
